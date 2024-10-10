@@ -1,6 +1,3 @@
-# TIL
-> Today I Learned
-
 # TIL 규칙
 
 1. 일주일에 최소 **5번**!
