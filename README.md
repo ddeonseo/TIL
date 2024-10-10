@@ -1,10 +1,12 @@
 # TIL
 > Today I Learned
 
-A collection of concrete writeups of small things I learn daily while working
-and researching. My goal is to work in public. I was inspired to start this
-repository after reading Simon Wilson's [hacker new post][1], and he was
-apparently inspired by Josh Branchaud's [TIL collection][2].
+# TIL 규칙
+
+1. 일주일에 최소 **5번**!
+2. **한 달** 후의 내가 **이해**할 수 있도록 쓰자
+3. 억지로 분량 늘리지 않기
+4. **한 달**에 한 번 **목표**를 세우고 **회고**를 쓰자
 
 
 _0 TILs and counting..._
@@ -14,6 +16,4 @@ _0 TILs and counting..._
 ### Categories
 
 
-[1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
-[2]: https://github.com/jbranchaud/til
 
