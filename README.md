@@ -8,19 +8,24 @@
 4. **한 달**에 한 번 **목표**를 세우고 **회고**를 쓰자
 
 
-_1 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
-### 1 most recent TILs
+### 2 most recent TILs
 
+- [Lambda](python/241011.md) - Sat Oct 12 00:00:43 2024 +0900
 - [Github action 자동화](git/241010.md) - Thu Oct 10 15:57:16 2024 +0900
 
 ### Categories
 
 - [git](#git)
+- [python](#python)
 
 ### [git](#git)
 - [Github action 자동화](git/241010.md)
+
+### [python](#python)
+- [Lambda](python/241011.md)
 
 
