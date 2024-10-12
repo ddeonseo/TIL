@@ -8,22 +8,27 @@
 4. **한 달**에 한 번 **목표**를 세우고 **회고**를 쓰자
 
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
-### 2 most recent TILs
+### 3 most recent TILs
 
+- [Syntactic sugar](pl/241012.md) - Sat Oct 12 21:01:57 2024 +0900
 - [Lambda](python/241011.md) - Sat Oct 12 00:00:43 2024 +0900
 - [Github action 자동화](git/241010.md) - Thu Oct 10 15:57:16 2024 +0900
 
 ### Categories
 
 - [git](#git)
+- [pl](#pl)
 - [python](#python)
 
 ### [git](#git)
 - [Github action 자동화](git/241010.md)
+
+### [pl](#pl)
+- [Syntactic sugar](pl/241012.md)
 
 ### [python](#python)
 - [Lambda](python/241011.md)
