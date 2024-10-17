@@ -8,15 +8,15 @@
 4. **한 달**에 한 번 **목표**를 세우고 **회고**를 쓰자
 
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
 ### 3 most recent TILs
 
+- [sorted와 sort](python/241017.md) - Fri Oct 18 00:28:00 2024 +0900
 - [List Comprehension](python/241016.md) - Wed Oct 16 22:19:28 2024 +0900
 - [타입 체크(type, isinstance)](python/241013.md) - Sun Oct 13 22:32:11 2024 +0900
-- [Syntactic sugar](pl/241012.md) - Sat Oct 12 21:01:57 2024 +0900
 
 ### Categories
 
@@ -34,5 +34,6 @@ _5 TILs and counting..._
 - [Lambda](python/241011.md)
 - [타입 체크(type, isinstance)](python/241013.md)
 - [List Comprehension](python/241016.md)
+- [sorted와 sort](python/241017.md)
 
 
