@@ -8,7 +8,7 @@
 4. **한 달**에 한 번 **목표**를 세우고 **회고**를 쓰자
 
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -35,5 +35,6 @@ _6 TILs and counting..._
 - [타입 체크(type, isinstance)](python/241013.md)
 - [List Comprehension](python/241016.md)
 - [sorted와 sort](python/241017.md)
+- [Iterable과 Iterator](python/241106.md)
 
 
